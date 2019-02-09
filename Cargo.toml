@@ -1,0 +1,7 @@
+[package]
+name = "shell"
+version = "0.1.0"
+authors = ["Taigah <taiah.dev@gmail.com>"]
+edition = "2018"
+
+[dependencies]
